@@ -1,3 +1,31 @@
+<!-- ==================== COVER / THÔNG TIN BÀI NỘP ==================== -->
+<div align="center">
+
+# VINUNI · AI IN ACTION (KHÓA 5)
+## BÁO CÁO BÀI TẬP LAB DAY 11: CONTROLLED AGENT SECURITY
+### Guardrails · Human-In-The-Loop (HITL) · Responsible AI
+
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg?logo=python)](https://www.python.org/)
+[![Blue Model: OpenRouter](https://img.shields.io/badge/Blue_Agent-liquid%2Flfm--3--1.7b%3Afree-blue)](https://openrouter.ai/)
+[![Red Model: Gemini](https://img.shields.io/badge/Red_Target-gemini--3.5--flash--lite-orange)](https://aistudio.google.com/)
+[![Grader: Passed](https://img.shields.io/badge/Grader-Passed%2010%2F10-success)](#)
+
+</div>
+
+### 📋 Thông tin học viên
+
+| Mục | Chi tiết |
+| :--- | :--- |
+| **Họ và tên:** | **Nguyễn Mạnh Quyền** |
+| **Mã số sinh viên (MSSV):** | **2A202603518** |
+| **Lớp / Khóa:** | **K5 - L3A** (Level 3 - Agentic AI) |
+| **Bài Lab:** | **Day 11 — Controlled Agent Security (VinBank)** |
+| **Repo bài nộp:** | [`K5-L3A-DAY11-NguyenManhQuyen-2A202603518-Guardrails-HITL-Responsible-AI`](https://github.com/manhquyenkma/K5-L3A-NguyenManhQuyen-2A202603518-Guardrails-HITL-Responsible-AI) |
+| **Hình thức:** | Bài tập cá nhân (1 SV / 1 Repo / 1 Link LMS) |
+| **Kết quả Grader:** | **Technical failure: False · 10/10 Public Tests Passed** |
+
+---
+
 # Day 11 — Controlled Agent Security (2026)
 
 > 👤 **Hình thức:** bài tập **cá nhân** (1 người / 1 MSSV).  
